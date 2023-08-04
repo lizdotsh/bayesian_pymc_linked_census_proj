@@ -1,0 +1,45 @@
+idx,state,stateicp
+1,Connecticut,1
+2,Maine,2
+3,Massachusetts,3
+4,New Hampshire,4
+5,Rhode Island,5
+6,Vermont,6
+7,Delaware,11
+8,New Jersey,12
+9,New York,13
+10,Pennsylvania,14
+11,Illinois,21
+12,Indiana,22
+13,Michigan,23
+14,Ohio,24
+15,Wisconsin,25
+16,Iowa,31
+17,Kansas,32
+18,Minnesota,33
+19,Missouri,34
+20,Nebraska,35
+21,North Dakota,36
+22,South Dakota,37
+23,Virginia,40
+24,Alabama,41
+25,Arkansas,42
+26,Florida,43
+27,Georgia,44
+28,Louisiana,45
+29,Mississippi,46
+30,North Carolina,47
+31,South Carolina,48
+32,Texas,49
+33,Kentucky,51
+34,Maryland,52
+35,Tennessee,54
+36,West Virginia,56
+37,Colorado,62
+38,Nevada,65
+39,New Mexico,66
+40,Utah,67
+41,California,71
+42,Oregon,72
+43,Washington,73
+44,District of Columbia,98
